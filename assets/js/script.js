@@ -16,7 +16,7 @@ function openSocial(type) {
       url = 'https://www.youtube.com/channel/UC9eUCx86eid-3fCODeOPsgQ';
       break;
     case 'instagram':
-      url:https://instagram.com/fumeiskunk/
+      url = 'https://instagram.com/fumeiskunk';
     break;
   }
 
