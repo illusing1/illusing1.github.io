@@ -15,6 +15,9 @@ function openSocial(type) {
     case 'youtube':
       url = 'https://www.youtube.com/channel/UC9eUCx86eid-3fCODeOPsgQ';
       break;
+    case 'instagram'
+      url:https://instagram.com/fumeiskunk/
+    break;
   }
 
   window.open(url);
