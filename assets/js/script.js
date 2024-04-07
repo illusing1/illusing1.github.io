@@ -17,7 +17,7 @@ function openSocial(type) {
       break;
     case 'instagram':
       url = 'https://instagram.com/fumeiskunk';
-    break;
+      break;
   }
 
   window.open(url);
