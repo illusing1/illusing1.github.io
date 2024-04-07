@@ -16,7 +16,6 @@ function openSocial(type) {
       url = 'https://www.youtube.com/channel/UC9eUCx86eid-3fCODeOPsgQ';
       break;
 
-    
   }
 
   window.open(url);
